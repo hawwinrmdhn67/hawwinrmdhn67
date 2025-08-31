@@ -9,8 +9,7 @@ saat ini saya sedang mencoba mempelajari untuk menjadi **Junior Full-Stack Devel
 yang senang membangun aplikasi web modern.  
 
 Berfokus pada **JavaScript, TypeScript, PHP** dan framework seperti **React** & **Laravel**.  
-Saya suka belajar teknologi baru, mengoptimalkan performa aplikasi, dan membuat  
-pengalaman pengguna yang menyenangkan.
+Saya suka mempelajari teknologi baru, terus mencari cara untuk meningkatkan performa aplikasi, dan menciptakan pengalaman pengguna yang lebih optimal.
 
 <img src="https://media1.tenor.com/m/FPBF3yuzjicAAAAd/kanna-cry-kanna-kamui.gif" width="400" alt="Kanna Crying GIF"/>
 
