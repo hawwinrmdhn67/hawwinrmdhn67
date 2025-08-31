@@ -54,18 +54,10 @@ Saya suka mempelajari teknologi baru, terus mencari cara untuk meningkatkan perf
 ---
 
 ## 📈 GitHub Stats
+![WinnShii's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawwinrmdhn67&show_icons=true&theme=react)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hawwinrmdhn67&show_icons=true&theme=react" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawwinrmdhn67&layout=compact&theme=react" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
+## 🧠 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawwinrmdhn67&layout=compact&theme=react)
 
 ---
 
