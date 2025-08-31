@@ -12,7 +12,8 @@ Berfokus pada **JavaScript, TypeScript, PHP** dan framework seperti **React** & 
 Saya suka belajar teknologi baru, mengoptimalkan performa aplikasi, dan membuat  
 pengalaman pengguna yang menyenangkan.
 
-<img src="https://media1.tenor.com/m/FPBF3yuzjicAAAAd/kanna-cry-kanna-kamui.gif" width="300" alt="Kanna Crying GIF"/>
+<img src="https://media1.tenor.com/m/FPBF3yuzjicAAAAd/kanna-cry-kanna-kamui.gif" width="400" alt="Kanna Crying GIF"/>
+
 ---
 
 ## 🛠️ Tech Stack
