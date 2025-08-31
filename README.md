@@ -4,7 +4,8 @@
 
 ## About Me
 
-Saya seorang **Junior Full-Stack Developer** yang senang membangun aplikasi web modern.  
+Saya seorang mahasiswa Teknik Informatika dari **Politeknik Elektronika Negeri Surabaya** 
+saat ini saya sedang mencoba mempelajari untuk menjadi **Junior Full-Stack Developer** yang senang membangun aplikasi web modern.  
 Berfokus pada **JavaScript, TypeScript, PHP** dan framework seperti **React** & **Laravel**.  
 Saya suka belajar teknologi baru, mengoptimalkan performa aplikasi, dan membuat pengalaman pengguna yang menyenangkan.
 
