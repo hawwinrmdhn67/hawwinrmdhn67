@@ -2,9 +2,7 @@
 
 **the moon is beautiful, isn't it?**
 
-Saya seorang **Junior Full-Stack Developer** yang senang membangun aplikasi web modern dengan fokus pada **JavaScript, TypeScript, PHP, dan framework populer** seperti React dan Laravel.  
-
-💡 Saya suka belajar teknologi baru, mengoptimalkan performa aplikasi.
+Saya seorang **Junior Full-Stack Developer** yang senang membangun aplikasi web modern dengan fokus pada **JavaScript, TypeScript, PHP, dan framework populer** seperti React dan Laravel. Saya suka belajar teknologi baru, mengoptimalkan performa aplikasi.
 
 ---
 
