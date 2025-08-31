@@ -25,7 +25,7 @@
 
 ## 📱 Favorite Apps
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,discord)](https://skillicons.dev) 
+[![Apps](https://skillicons.dev/icons?i=vscode,discord)](https://skillicons.dev) 
 
 ---
 
