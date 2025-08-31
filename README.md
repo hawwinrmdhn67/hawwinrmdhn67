@@ -23,8 +23,6 @@ pengalaman pengguna yang menyenangkan.
   </tr>
 </table>
 
-<img src="https://media1.tenor.com/m/FPBF3yuzjicAAAAd/kanna-cry-kanna-kamui.gif" width="400" alt="Kanna"/><br>
-
 ---
 
 ## 🛠️ Tech Stack
