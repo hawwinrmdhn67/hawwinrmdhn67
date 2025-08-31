@@ -4,7 +4,21 @@
 ---
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,nodejs,php,laravel,mysql,gcp)](https://skillicons.dev)
+## 💻 Bahasa Pemrograman
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+
+## ⚡ Framework / Library
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
+## 🗄️ Database
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+## ☁️ Cloud / Tools
+[![GCP](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
 
 ---
 
