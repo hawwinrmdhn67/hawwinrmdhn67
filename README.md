@@ -19,37 +19,26 @@ Saya suka belajar teknologi baru, mengoptimalkan performa aplikasi, dan membuat 
 ## 🛠️ Tech Stack
 
 ### 💻 Bahasa Pemrograman
-<p align="center">
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-  [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
-  [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
-</p>
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 
 ### ⚡ Framework / Library
-<p align="center">
-  [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-  [![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
-  [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-</p>
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ### 🗄️ Database
-<p align="center">
-  [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-  [![Supabase](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
-</p>
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
 
 ### ☁️ Cloud / Tools
-<p align="center">
-  [![GCP](https://skillicons.dev/icons?i=gcp,github)](https://skillicons.dev)
-</p>
+[![GCP](https://skillicons.dev/icons?i=gcp,github)](https://skillicons.dev)
 
 ---
 
 ## 📱 Favorite Apps
-<p align="center">
-  [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-  [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/)
-</p>
+[![Apps](https://skillicons.dev/icons?i=vscode,discord)](https://skillicons.dev)
 
 ---
 
@@ -67,14 +56,10 @@ Saya suka belajar teknologi baru, mengoptimalkan performa aplikasi, dan membuat 
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hawwinrmdhn67&show_icons=true&theme=react" alt="GitHub Stats" />
-</p>
+![WinnShii's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawwinrmdhn67&show_icons=true&theme=react)
 
 ---
 
 ## 📬 Contact Me
-<p align="center">
-  - Instagram: [winn.jsx](https://www.instagram.com/winn.jsx)  
-  - GitHub: [hawwinrmdhn67](https://github.com/hawwinrmdhn67)
-</p>
+- Instagram: [winn.jsx](https://www.instagram.com/winn.jsx)  
+- GitHub: [hawwinrmdhn67](https://github.com/hawwinrmdhn67)
