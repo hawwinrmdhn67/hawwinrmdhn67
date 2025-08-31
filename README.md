@@ -2,7 +2,7 @@
 
 **the moon is beautiful, isn't it?**
 
-| Tentang Saya | GIF |
+| Tentang Saya | INI KANNA |
 | ------------ | --- |
 | Saya seorang **Junior Full-Stack Developer** yang senang membangun aplikasi web modern dengan fokus pada **JavaScript, TypeScript, PHP, dan framework populer** seperti **React** dan **Laravel**. Saya suka belajar teknologi baru, mengoptimalkan performa aplikasi, dan membuat pengalaman pengguna yang menyenangkan. | <img src="https://media1.tenor.com/m/FPBF3yuzjicAAAAd/kanna-cry-kanna-kamui.gif" width="200"/> |
 
