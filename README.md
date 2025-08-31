@@ -2,8 +2,6 @@
 
 **the moon is beautiful, isn't it?**
 
----
-
 ## About Me
 
 Saya seorang **Junior Full-Stack Developer** yang senang membangun aplikasi web modern  
