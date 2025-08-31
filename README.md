@@ -14,7 +14,7 @@ When I'm not coding, you'll probably find me exploring tech communities, tinkeri
 
 Nice to meet you! 🌱🏔️
 
-<img src="fe564822-ac43-4eff-a5b3-d1f94e77e963.png" alt="Berserk Guts Moonlight" width="400"/>
+<img src="https://media1.tenor.com/m/FPBF3yuzjicAAAAd/kanna-cry-kanna-kamui.gif" width="200" alt="Kanna"/>
 
 ---
 
