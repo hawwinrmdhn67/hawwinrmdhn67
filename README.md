@@ -16,6 +16,7 @@
 
 ## 🗄️ Database
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
 
 ## ☁️ Cloud / Tools
 [![GCP](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
