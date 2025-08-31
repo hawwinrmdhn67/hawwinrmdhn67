@@ -1,5 +1,21 @@
-# 👋 Hi, I'm Hawwin Ramadhan
+# Hi there, I'm Hawwin Ramadhan 👋
+
 **the moon is beautiful, isn't it?**
+
+Saya seorang **Full-Stack Developer** yang senang membangun aplikasi web modern dengan fokus pada **JavaScript, TypeScript, PHP, dan framework populer** seperti React dan Laravel.  
+
+💡 Saya suka belajar teknologi baru, mengoptimalkan performa aplikasi.
+
+✨ Keahlian saya meliputi:  
+- **Bahasa Pemrograman:** JavaScript, TypeScript, PHP  
+- **Framework / Library:** React, Laravel, Node.js  
+- **Database:** MySQL  
+- **Cloud / Tools:** Google Cloud Platform (GCP), VSCode, Git  
+
+🚀 Saya selalu berusaha membuat kode yang bersih, terstruktur, dan mudah dipelihara.  
+
+📫 Hubungi saya melalui email: `emailmu@example.com`  
+
 
 ---
 
