@@ -10,8 +10,7 @@
 
 ## 📱 Favorite Apps
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,spotify,discord)](https://skillicons.dev) 
-[![Spotify](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg)](https://www.spotify.com/)
+[![My Skills](https://skillicons.dev/icons?i=vscode,discord)](https://skillicons.dev) 
 
 ---
 
