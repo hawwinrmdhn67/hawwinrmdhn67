@@ -4,7 +4,7 @@
 ---
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,nodejs,php,laravel,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,nodejs,php,laravel,mysql,gcp)](https://skillicons.dev)
 
 ---
 
