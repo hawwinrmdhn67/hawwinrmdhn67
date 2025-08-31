@@ -2,15 +2,19 @@
 
 **the moon is beautiful, isn't it?**
 
-## About Me
+# Greetings, Human! 😆👋
 
-Saya seorang **Junior Full-Stack Developer** yang senang membangun aplikasi web modern.  
-Berfokus pada **JavaScript, TypeScript, PHP** dan framework seperti **React** & **Laravel**.  
-Saya suka belajar teknologi baru, mengoptimalkan performa aplikasi, dan membuat pengalaman pengguna yang menyenangkan.
+---
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/FPBF3yuzjicAAAAd/kanna-cry-kanna-kamui.gif" width="200" alt="Kanna"/><br>
-</p>
+I'm _Bagus Insan PraDana_ ✅ — a passionate and curious beginner in the world of technology.  
+Currently diving into **web development** and **C programming**, while pursuing my studies as a proud student at **PENS** (_Politeknik Elektronika Negeri Surabaya_).
+
+I enjoy building things from scratch, learning how systems work behind the scenes, and constantly pushing myself to grow — one line of code at a time.  
+When I'm not coding, you'll probably find me exploring tech communities, tinkering with something new, or just geeking out over clean code and clever design.
+
+Nice to meet you! 🌱🏔️
+
+<img src="fe564822-ac43-4eff-a5b3-d1f94e77e963.png" alt="Berserk Guts Moonlight" width="400"/>
 
 ---
 
