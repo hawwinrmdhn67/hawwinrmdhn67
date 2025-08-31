@@ -8,6 +8,12 @@
 
 ---
 
+## 📱 Favorite Apps
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,spotify,)](https://skillicons.dev)
+
+---
+
 ## 📂 Projects
 ### Web
 - **[WEB-FEINIME-REACT](https://github.com/hawwinrmdhn67/WEB-FEINIME-REACT)** – Web anime app menggunakan React.
