@@ -4,10 +4,6 @@
 
 ## About Me
 
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-
 Saya seorang mahasiswa Teknik Informatika dari **Politeknik Elektronika Negeri Surabaya**,  
 saat ini saya sedang mencoba mempelajari untuk menjadi **Junior Full-Stack Developer**  
 yang senang membangun aplikasi web modern.  
@@ -16,13 +12,7 @@ Berfokus pada **JavaScript, TypeScript, PHP** dan framework seperti **React** & 
 Saya suka belajar teknologi baru, mengoptimalkan performa aplikasi, dan membuat  
 pengalaman pengguna yang menyenangkan.
 
-</td>
-    <td>
-      <img src="https://media1.tenor.com/m/FPBF3yuzjicAAAAd/kanna-cry-kanna-kamui.gif" width="300" alt="Kanna Crying GIF"/>
-    </td>
-  </tr>
-</table>
-
+<img src="https://media1.tenor.com/m/FPBF3yuzjicAAAAd/kanna-cry-kanna-kamui.gif" width="300" alt="Kanna Crying GIF"/>
 ---
 
 ## 🛠️ Tech Stack
