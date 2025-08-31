@@ -24,7 +24,7 @@
 [![Supabase](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
 
 ## ☁️ Cloud / Tools
-[![GCP](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+[![GCP](https://skillicons.dev/icons?i=gcp,github)](https://skillicons.dev)
 
 ---
 
