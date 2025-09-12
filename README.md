@@ -33,8 +33,6 @@ Saya suka mempelajari teknologi baru, terus mencari cara untuk meningkatkan perf
 ## ☁️ Cloud / Tools
 [![GCP](https://skillicons.dev/icons?i=gcp,github)](https://skillicons.dev)
 
----
-
 ## 📱 Favorite Apps
 
 [![Apps](https://skillicons.dev/icons?i=vscode,discord)](https://skillicons.dev) 
