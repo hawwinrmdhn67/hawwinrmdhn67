@@ -42,10 +42,10 @@ Saya suka mempelajari teknologi baru, terus mencari cara untuk meningkatkan perf
 ## 📂 Projects
 ### Web
 - **[WEB-BRANIMULAI UMKM NEXTJS](https://github.com/hawwinrmdhn67/BRANIMULAI-UMKM)** Web BraniMulai UMKM menggunakan NextJS dan integrasi bot telegram. (Collab bagian Backend).
-- **[WEB-HELM MONITORING UI-REACT](https://github.com/hawwinrmdhn67/HELM-MONITORING-UI)** – Web Monitoring helm menggunakan NextJS dan api geolocation dan map leaflet.
-- **[WEB-FEINIME-REACT](https://github.com/hawwinrmdhn67/WEB-FEINIME-REACT)** – Web anime app menggunakan React Vite.
-- **[WEB-FEATHERINE-AI-REACT](https://github.com/hawwinrmdhn67/WEB-FEATHERINE-AI-REACT)** – Chatbot AI interaktif Menggunakan React Vite.
-- **[WEB-TOPUP-GAME](https://github.com/hawwinrmdhn67/WEB-TOPUP-GAME)** – Top-up game online Menggunakan PHP dan integrasi dengan Midtrans & Stripe untuk pembayaran.
+- **[WEB-HELM MONITORING NEXTJS](https://github.com/hawwinrmdhn67/HELM-MONITORING-UI)** – Web Monitoring helm menggunakan NextJS dan api geolocation dan map leaflet.
+- **[WEB-FEINIME REACT VITE](https://github.com/hawwinrmdhn67/WEB-FEINIME-REACT)** – Web anime app menggunakan React Vite.
+- **[WEB-FEATHERINE AI REACT VITE](https://github.com/hawwinrmdhn67/WEB-FEATHERINE-AI-REACT)** – Chatbot AI interaktif Menggunakan React Vite.
+- **[WEB-TOPUP GAME PHP](https://github.com/hawwinrmdhn67/WEB-TOPUP-GAME)** – Top-up game online Menggunakan PHP dan integrasi dengan Midtrans & Stripe untuk pembayaran.
 - **[WEB-HAWWIN-SEMESTEER-1](https://github.com/hawwinrmdhn67/WEB-HAWWIN-SEMESTEER-1)** – Project HTML/CSS sederhana.
 
 ### Sistem & Others
