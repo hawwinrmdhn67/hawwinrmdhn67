@@ -49,7 +49,8 @@ Saya suka mempelajari teknologi baru, terus mencari cara untuk meningkatkan perf
 - **[WEB-HAWWIN-SEMESTEER-1](https://github.com/hawwinrmdhn67/WEB-HAWWIN-SEMESTEER-1)** – Project HTML/CSS sederhana.
 
 ### Sistem & Others
-- **[SisOp-2025](https://github.com/hawwinrmdhn67/SisOp-2025)** – Sistem Operasi project 2025.
+- **[SisOp-2025](https://github.com/hawwinrmdhn67/SisOp-2025)** – Tugas Sistem operasi semester 2.
+- **[PythonForHacking-2025](https://github.com/hawwinrmdhn67/Python-For-Hacking-Semester-3-Prakterk-konsep-jaringan).** - Tugas Python For Hacking Praktek konsep jaringan semester 3.
 
 ---
 
