@@ -48,7 +48,7 @@ Saya suka mempelajari teknologi baru, terus mencari cara untuk meningkatkan perf
 - **[WEB-TOPUP GAME PHP](https://github.com/hawwinrmdhn67/WEB-TOPUP-GAME)** – Top-up game online Menggunakan PHP dan integrasi dengan Midtrans & Stripe untuk pembayaran.
 - **[WEB-HAWWIN-SEMESTEER-1](https://github.com/hawwinrmdhn67/WEB-HAWWIN-SEMESTEER-1)** – Project HTML/CSS sederhana.
 
-### Sistem & Others
+### Tugas Kuliah
 - **[SisOp-2025](https://github.com/hawwinrmdhn67/SisOp-2025)** – Tugas Sistem operasi semester 2.
 - **[PythonForHacking-2025](https://github.com/hawwinrmdhn67/Python-For-Hacking-Semester-3-Prakterk-konsep-jaringan).** - Tugas Python For Hacking Praktek konsep jaringan semester 3.
 
