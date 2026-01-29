@@ -8,7 +8,7 @@ Saya seorang mahasiswa Teknik Informatika dari **Politeknik Elektronika Negeri S
 saat ini saya sedang mencoba mempelajari untuk menjadi **Junior Full-Stack Developer**  
 yang senang membangun aplikasi web modern.  
 
-Berfokus pada **JavaScript, TypeScript, PHP** dan framework seperti **React** & **Laravel**.  
+Berfokus pada **JavaScript dan TypeScript, lalu menggunakan framework seperti **React** & **NextJS**.  
 Saya suka mempelajari teknologi baru, terus mencari cara untuk meningkatkan performa aplikasi, dan menciptakan pengalaman pengguna yang lebih optimal.
 
 <img src="https://media1.tenor.com/m/FPBF3yuzjicAAAAd/kanna-cry-kanna-kamui.gif" width="400" alt="Kanna Crying GIF"/>
