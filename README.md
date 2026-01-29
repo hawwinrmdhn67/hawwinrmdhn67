@@ -22,6 +22,7 @@ Saya suka mempelajari teknologi baru, terus mencari cara untuk meningkatkan perf
 
 ## ⚡ Framework / Library
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://skillicons.dev)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ## 🗄️ Database
