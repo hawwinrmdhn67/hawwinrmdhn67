@@ -5,10 +5,10 @@
 ## About Me
 
 Saya seorang mahasiswa Teknik Informatika dari **Politeknik Elektronika Negeri Surabaya**,  
-saat ini saya sedang mencoba mempelajari untuk menjadi **Junior Full-Stack Developer**  
+saat ini saya sedang mencoba mempelajari untuk menjadi **Frontend Developer**  
 yang senang membangun aplikasi web modern.  
 
-Berfokus pada **JavaScript dan TypeScript**, lalu menggunakan framework seperti **React** & **NextJS**.  
+Berfokus pada **JavaScript dan TypeScript**, lalu menggunakan library javascript yaitu **React** dan framework seperti **NextJS**.  
 Saya suka mempelajari teknologi baru, terus mencari cara untuk meningkatkan performa aplikasi, dan menciptakan pengalaman pengguna yang lebih optimal.
 
 <img src="https://media1.tenor.com/m/FPBF3yuzjicAAAAd/kanna-cry-kanna-kamui.gif" width="400" alt="Kanna Crying GIF"/>
