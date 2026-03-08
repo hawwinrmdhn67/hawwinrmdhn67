@@ -17,12 +17,14 @@ Saya suka mempelajari teknologi baru, terus mencari cara untuk meningkatkan perf
 
 ## 🛠️ Tech Stack
 ## 💻 Bahasa Pemrograman
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 
 ## ⚡ Framework / Library
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://skillicons.dev)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ## 🗄️ Database
