@@ -1,4 +1,4 @@
-# Hi there, I'm Hawwin Ramadhan 👋
+# Hi there, I'm Hawwin Ramadhan 
 
 **the moon is beautiful, isn't it?**
 
