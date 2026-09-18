@@ -64,5 +64,5 @@ Saya suka mempelajari teknologi baru, terus mencari cara untuk meningkatkan perf
 ---
 
 ## 📬 Contact Me
-- Instagram: [winn.tsx](https://www.instagram.com/hawwinrmdhn)
+- Instagram: [hawwinrmdhn](https://www.instagram.com/hawwinrmdhn)
 - GitHub: [hawwinrmdhn67](https://github.com/hawwinrmdhn67)
