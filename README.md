@@ -1,7 +1,5 @@
 # Hi there, I'm Hawwin Ramadhan 
 
-**the moon is beautiful, isn't it?**
-
 ## About Me
 
 Saya seorang mahasiswa Teknik Informatika dari **Politeknik Elektronika Negeri Surabaya**,  
