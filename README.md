@@ -5,11 +5,6 @@
 ## About Me
 
 Saya seorang mahasiswa Teknik Informatika dari **Politeknik Elektronika Negeri Surabaya**,  
-saat ini saya sedang mencoba mempelajari untuk menjadi **Frontend Developer**  
-yang senang membangun aplikasi web modern.  
-
-Berfokus pada **JavaScript dan TypeScript**, lalu menggunakan library javascript yaitu **React** dan framework seperti **NextJS**.  
-Saya suka mempelajari teknologi baru, terus mencari cara untuk meningkatkan performa aplikasi, dan menciptakan pengalaman pengguna yang lebih optimal.
 
 <img src="https://media1.tenor.com/m/FPBF3yuzjicAAAAd/kanna-cry-kanna-kamui.gif" width="400" alt="Kanna Crying GIF"/>
 
@@ -37,21 +32,6 @@ Saya suka mempelajari teknologi baru, terus mencari cara untuk meningkatkan perf
 ## 📱 Favorite Apps
 
 [![Apps](https://skillicons.dev/icons?i=vscode,discord)](https://skillicons.dev) 
-
----
-
-## 📂 Projects
-### Web
-- **[WEB-BRANIMULAI UMKM NEXTJS](https://github.com/hawwinrmdhn67/BRANIMULAI-UMKM)** Web BraniMulai UMKM menggunakan NextJS dan integrasi bot telegram. (Collab bagian Backend).
-- **[WEB-HELM MONITORING NEXTJS](https://github.com/hawwinrmdhn67/HELM-MONITORING-UI)** – Web Monitoring helm menggunakan NextJS dan api geolocation dan map leaflet.
-- **[WEB-FEINIME REACT VITE](https://github.com/hawwinrmdhn67/WEB-FEINIME-REACT)** – Web anime app menggunakan React Vite.
-- **[WEB-FEATHERINE AI REACT VITE](https://github.com/hawwinrmdhn67/WEB-FEATHERINE-AI-REACT)** – Chatbot AI interaktif Menggunakan React Vite.
-- **[WEB-TOPUP GAME PHP](https://github.com/hawwinrmdhn67/WEB-TOPUP-GAME)** – Top-up game online Menggunakan PHP dan integrasi dengan Midtrans & Stripe untuk pembayaran.
-- **[WEB-HAWWIN-SEMESTEER-1](https://github.com/hawwinrmdhn67/WEB-HAWWIN-SEMESTEER-1)** – Project HTML/CSS sederhana.
-
-### Tugas Kuliah
-- **[SisOp-2025](https://github.com/hawwinrmdhn67/SisOp-2025)** – Tugas Sistem operasi semester 2.
-- **[PythonForHacking-2025](https://github.com/hawwinrmdhn67/Python-For-Hacking-Semester-3-Prakterk-konsep-jaringan).** - Tugas Python For Hacking Praktek konsep jaringan semester 3.
 
 ---
 
