@@ -4,7 +4,7 @@
 
 Saya seorang mahasiswa Teknik Informatika dari **Politeknik Elektronika Negeri Surabaya**,  
 
-<img src="https://media1.tenor.com/m/FPBF3yuzjicAAAAd/kanna-cry-kanna-kamui.gif" width="400" alt="Kanna Crying GIF"/>
+<img src="https://i.pinimg.com/originals/91/f2/d0/91f2d06aeaa58f5a9de6ca3dd5feb96c.gif" width="400" alt="Minjuu GIF"/>
 
 ---
 
